@@ -35,4 +35,4 @@ $ python gpreport.py -ip <ip address of your firewall> -u <api username> -p <pas
  ## **IMPORTANT NOTE!**
 This script is tested with Python 3.7.2. Please make sure your default Python is version 3 or use **__"python3"__** command instead of ~~python~~ when you run the command
  ## Sample Reports
- You can find sample html and csv reports at the repository.
+ You can find sample **__html__** and **__csv__** reports at the repository.
